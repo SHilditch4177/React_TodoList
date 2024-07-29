@@ -1,12 +1,11 @@
 import {useState} from "react";
 import "./App.css";
-import Delete from "./assets/delete.png"
-import Add from "./assets/add.png"
-import Complete from "./assets/tick.png"
-import Main from "./assets/main.jpg"
+import Delete from "./assets/delete.png";
+import Add from "./assets/add.png";
+import Complete from "./assets/tick.png";
 import Todo from "./assets/todo.jpg"
-import Archive from "./assets/archive.png"
-import TodoBack from "./assets/main2.jpg"
+import Archive from "./assets/archive.png";
+import TodoBack from "./assets/main2.jpg";
 
 
 function App() {
